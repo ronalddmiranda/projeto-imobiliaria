@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+* {
+    border: 0px;
+    margin: 0px;
+}
+
+header, main {
+    max-width: 600px;
+    margin: auto;
+    background-color: aquamarine;
+}
+
+img {
+    width: 100px;
+}
